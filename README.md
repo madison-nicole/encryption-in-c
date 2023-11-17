@@ -16,6 +16,6 @@ Thus, for running "./substitution YTNSHKVEFXRBAUQZCLWDMIPGJO" and inputting "HEL
 ## Usage
 In order to run the program, users will need to download the [CS50 library](https://github.com/cs50/libcs50/releases) and follow these [instructions](https://github.com/m-saylor/libcs50). The code must then be compiled.
 
-Casesar Usage: "./caesar *key*" with *key* being a positive integer that indicates how many places to shift each letter by
+Casesar Usage: "./caesar *key*" with *key* being a positive integer
 
 Substitution Usage: "./substitution *key*" with *key* representing all 26 letters of the alphabet that map directly to the standard alphabet
