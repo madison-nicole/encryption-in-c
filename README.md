@@ -14,7 +14,7 @@ This is a command-line program that users run using "./substitution *key*". For 
 Thus, for running "./substitution YTNSHKVEFXRBAUQZCLWDMIPGJO" and inputting "HELLO" when prompted for the ciphertext, the printed plaintext would be "EHBBQ."
 
 ## Usage
-In order to run the program, users will need to download the [CS50 library](https://github.com/cs50/libcs50/releases) and follow these [instructions](https://github.com/m-saylor/libcs50). The code must then be compiled.
+In order to run the program, users will need to download the [CS50 library](https://github.com/cs50/libcs50/releases) and follow these [instructions](https://github.com/madison-nicole/libcs50). The code must then be compiled.
 
 Casesar Usage: "./caesar *key*" with *key* being a positive integer
 
